@@ -2,7 +2,7 @@ Seja bem vindo ao meu perfil 👋
 
 Comecei recentemente os trabalhos aqui nessa rede!
 
-
+Sou estudante de ADS pela FIAP!
 # Fintech
 
 - https://github.com/FefeGSilva/Tela-Fintech.git
